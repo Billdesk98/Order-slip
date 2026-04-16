@@ -1,11 +1,28 @@
-You authorized a payment of $467.98 to Coinbase. Nc
-This is an email confirmation for the payment you made to Coin-base inc, for
-The purchase of bitcoin cryptocurrency, through your PayPal account. This transaction can take 24-36 hours to show up on your statement 
+Dear Valued Customer,
 
-INVOICE :- FGY556-54BHJ
-TRANSACTION DATE :- 16-04-2026
-AMOUNT :- $467.98
+We are writing to inform you that your Norton LifeLock Security subscription has been successfully renewed and the payment has been processed.
 
-Help line : +1 833-227-3946 
+Invoice Information:
 
-You have 24 hours from the time of the transaction to dispute and stop this transaction. Call the TOLL-FREE number below to reach PayPal Support  +1 833-227-3946 
+Transaction ID: #84846924
+
+Amount Charged: 349.86 USD
+
+This payment will appear on your billing statement as an auto-renewal for Norton LifeLock Security.
+
+If you did not authorize this renewal, please contact us within 24 hours to dispute the charge.
+
+To cancel, resolve any concerns, or request a refund, please reach out to Geek-Squad Support as soon as possible.
+
+Support Contact:
+
+24/7 Toll-Free Resolution Center: +1 833.227.3946
+
+Email: Please do not reply to this automated message.
+
+Thank you for your prompt attention.
+
+Kind regards,
+
+Norton LifeLock Security Delp Desk-
++1 833.227.3946
